@@ -3,7 +3,11 @@
         "apps": [],
         "details": [
             {
-                "appID": "M8HBL5W4VV.com.Universal-Links",
+                "appID": "NUWD2JVU26.com.serhii-londar.Universal-Links",
+                "paths": [ "/iOS-Universal-Links/*"]
+            },
+            {
+                "appID": "NUWD2JVU26.com.serhii-londar.Universal-Links1",
                 "paths": [ "/iOS-Universal-Links/*"]
             }
         ]
