@@ -1,15 +1,14 @@
 {
-    "applinks": {
-        "apps": [],
-        "details": [
-            {
-                "appID": "NUWD2JVU26.com.serhii-londar.Universal-Links",
-                "paths": [ "*"]
-            },
-            {
-                "appID": "NUWD2JVU26.com.serhii-londar.Universal-Links1",
-                "paths": [ "*"]
-            }
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "NUWD2JVU26.com.serhii-londar.Universal-Links",
+        "paths": [
+          "/iOS-Universal-Links/home",
+          "/iOS-Universal-Links/about"
         ]
-    }
+      }
+    ]
+  }
 }
