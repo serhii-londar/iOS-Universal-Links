@@ -5,8 +5,7 @@
       {
         "appID": "NUWD2JVU26.com.serhii-londar.Universal-Links",
         "paths": [
-          "/iOS-Universal-Links/home",
-          "/iOS-Universal-Links/about"
+          "/iOS-Universal-Links/*"
         ]
       }
     ]
