@@ -4,11 +4,11 @@
         "details": [
             {
                 "appID": "NUWD2JVU26.com.serhii-londar.Universal-Links",
-                "paths": [ "*"]
+                "paths": [ "/iOS-Universal-Links/*"]
             },
             {
                 "appID": "NUWD2JVU26.com.serhii-londar.Universal-Links1",
-                "paths": [ "*"]
+                "paths": [ "/iOS-Universal-Links/*"]
             }
         ]
     }
